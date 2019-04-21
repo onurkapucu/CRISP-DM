@@ -1,10 +1,11 @@
 # CRISP-DM
 
-Motivation
+
+##Motivation
 
 This project aims to understand the prices and accomodation availability in Seattle throughout the year, using the 2016 data provided by AirBNB on Kaggle.
 
-Files
+##Files
 
 3 csv files:
 
@@ -16,6 +17,6 @@ reviews.csv
 
 Seattle CRISP DM.ipynb
 
-Use
+##Use
 
 Follow the process in the jupyter notebook to read the csv files, clean the data and answer the following questions
