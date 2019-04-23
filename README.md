@@ -10,8 +10,6 @@ This project aims to understand the prices and accomodation availability in Seat
 3 csv files:
 
 calendar.csv
-listings.csv
-reviews.csv 
 
 1 jupyter notebook:
 
