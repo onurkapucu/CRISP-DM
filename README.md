@@ -1,4 +1,4 @@
-# CRISP-DM
+# CRISP DM Analysis for AirBNB Seattle Data
 
 
 ## Motivation
@@ -30,3 +30,9 @@ Project targets to answer following business questions based on the dataset prov
 3- When does Seattle have the most number of listings throughout the year?
 
 4- Do hosts increase prices during Summer?
+
+## Results
+
+An analysis can be foound on:
+
+https://medium.com/@onurkpc/seattle-summers-are-beautiful-and-airbnb-hosts-know-it-ab66c1fe5bfc
